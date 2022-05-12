@@ -3,7 +3,7 @@
     "version": "1.5.7",
     "description": "React Native component used to provide the features of pass different context menu items and events",
     "main": "index.ts",
-    "homepage": "https://github.com/alentoma/react-native-selectable-text",
+    "homepage": "https://github.com/fuzexjj/react-native-selectable-text",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
